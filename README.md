@@ -5,7 +5,6 @@ and a distraction-free workspace.
 
 
 Features:
-
 Modular Design: Built with modular JavaScript architecture to promote code maintainability and scalability.
 
 Integrated Page Loader: Dynamically loads different modules into a single-page interface without reloading the browser.
@@ -21,8 +20,8 @@ Dark Mode Toggle: Includes a built-in dark mode toggle with persistent theme sto
 Minimal UI/UX: Clean, responsive layout optimized for productivity and low visual clutter.
 
 
-Technologies Used:
 
+Technologies Used:
 HTML5: For structuring the application.
 
 CSS3: For styling and responsive design.
@@ -32,8 +31,8 @@ Vanilla JavaScript (ES6 Modules): For logic and dynamic content loading.
 Local Storage API: Used to persist theme preferences and user data (such as notes).
 
 
-Team Members:
 
+Team Members:
 This project was developed collaboratively by a group of three students:
 
 Member 1 – ROHAN DAS (2420080057) 
